@@ -23,6 +23,16 @@ Simply install and activate the plugin. There will be an Okta item in your admin
 
 == Changelog ==
 
+= 0.0.3 =
+
+* Fix for user creation with invalid password
+* Adjust login flow for custom user mapping
+* Escaping and L10N
+
+= 0.0.2 =
+
+* Fix for okta_username filter
+
 = 0.0.1 =
 
 * Initial commit
